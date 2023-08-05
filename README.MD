@@ -5,8 +5,6 @@
 npm run build
 ```
 
-### Subimos nuestro proyecto a GitHub
-
 ### Iniciar un código para producción
 ```bash
 npm i gh-pages 
